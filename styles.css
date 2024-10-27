@@ -1,0 +1,84 @@
+.logo {
+    color: black;
+}
+.navbar {
+    background-color:rgb(250, 221, 226);
+}
+
+.body{
+    background-color:rgb(250, 221, 226);
+}
+.body{
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+.pagetitle{
+    background-color: rgb(250, 221, 226);
+}
+.Directory{
+    font-size: medium;
+}
+.mainblog{
+    background-color: rgb(250, 221, 226)
+    ;
+}
+a{
+    text-decoration: none;
+}
+.button1{
+    background-color: rgb(250, 221, 226);
+    border: palevioletred;
+    border-style: outset;
+    border-width: 1cqb;
+    text-align: center;
+    font-size: 16px;
+
+
+}
+.nav-list{
+    border: rgb(111, 203, 154);
+    border-style : inset;
+    border-width:1cqb;
+
+}
+.box{
+    border-color: black;
+
+}
+.list{
+    color: black;
+    
+
+}
+.section-title{
+  color: palevioletred;
+}
+.body {
+    margin: 20px;
+    padding: 20px;
+    border-color : rgb(111, 203, 154);
+    border-style :outset;
+    border-width:7cqb;
+  }
+  .project-description{
+    font-size: small;
+  }
+  .nav-list{
+    
+    display: inline-block;
+    font-weight: 300;
+    
+  }
+  ul {
+    list-style: none;
+    padding: 0;
+    
+  }
+  
+  li {
+    display: inline;
+    margin-right: 70px; /* optional, adds some spacing between list items */
+    
+    ;
+  }
+  

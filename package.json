@@ -1,0 +1,15 @@
+{
+  "name": "camilayeremin.github.io",
+  "version": "1.0.0",
+  "description": "Camila Yeremin's Personal Website! This is a personal website built by using HackForImpact Starter Pack! Link : https://camilayeremin.github.io Thank you for checking it out!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^5.6.3"
+  }
+}
